@@ -9,10 +9,11 @@
 
 .popup {
     position: relative;
-    left: 30%;
     top: 40%;
-    width: 640px;
-    height: 320px;
+    width: auto;
+    height: auto;
+    margin-left: 40px;
+    margin-right: 40px;
     background-color: #FFF;
     box-shadow: 2px 2px 3px 5px rgba(0, 0, 0, 0.2);
     border-radius: 2px;
